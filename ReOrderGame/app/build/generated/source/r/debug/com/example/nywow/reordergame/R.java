@@ -2234,12 +2234,12 @@ containing a value of this type.
         public static final int topPanel=0x7f0b0032;
         public static final int up=0x7f0b0008;
         public static final int useLogo=0x7f0b0013;
-        public static final int value1=0x7f0b005a;
-        public static final int value2=0x7f0b0055;
-        public static final int value3=0x7f0b0059;
-        public static final int value4=0x7f0b0058;
-        public static final int value5=0x7f0b0057;
-        public static final int value6=0x7f0b0056;
+        public static final int value0=0x7f0b0055;
+        public static final int value1=0x7f0b0056;
+        public static final int value2=0x7f0b0057;
+        public static final int value3=0x7f0b0058;
+        public static final int value4=0x7f0b0059;
+        public static final int value5=0x7f0b005a;
         public static final int withText=0x7f0b0022;
         public static final int wrap_content=0x7f0b001a;
     }
